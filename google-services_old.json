@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552403122266",
+    "project_id": "qitkif-2381f",
+    "storage_bucket": "qitkif-2381f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552403122266:android:4d2ea2821fff23fa1f8063",
+        "android_client_info": {
+          "package_name": "com.packagenirinfo.qitkif2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPC7J2pnMhk0quprsLgdU_eSW3LFH72hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

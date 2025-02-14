@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979856536173",
+    "project_id": "qitkif2",
+    "storage_bucket": "qitkif2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979856536173:android:cda0fb6605a2653db9c564",
+        "android_client_info": {
+          "package_name": "com.packagenirinfo.qitkif2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDluVV3YP-xf7e--UbVAU8lbyTkCH9Syh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979856536173:android:7fc26cd5da826f33b9c564",
+        "android_client_info": {
+          "package_name": "com.qitkif2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDluVV3YP-xf7e--UbVAU8lbyTkCH9Syh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
